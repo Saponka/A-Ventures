@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(229, 238, 240);
+}
+.div{
+    background-color: moccasin;
+    color: #000;
+    padding-bottom: 40px;
+}
+.titulo{
+    color: black;
+    font-size: 300%;
+  padding-top: 70px;
+  
+   font-family: 'Syncopate'; 
+}
+h1 {
+    text-align: center;
+    font-variant: small-caps;        
+}
+h2{
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+}
+.container{
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(50, 252, 0, 0.816);
+    text-align: center;
+    font-weight: 750;
+    letter-spacing: 1pt;
+    font-weight: bold;
+}
+ul li::marker{
+    color: black; 
+}
+.botones{
+    background-color: #000;
+    display: flex;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    color: orangered;
+  box-shadow: 0 0 30px 0 rgb(255, 115, 0),
+  0 0 30px 0 rgb(220, 20, 20), 
+  0 0 10px 0  rgb(175, 100, 15) inset;
+}
+.botones a{
+    text-decoration: none;
+    color: orangered
+}
+.portal{
+    color: rgb(123, 245, 99);
+    border: solid  rgb(91, 218, 32) ;
+    background-color:rgb(17, 17, 17);
+    text-align: center;
+    width:615px;
+    margin: auto;
+}
+.espacio { 
+    color: rgb(189 102 15);
+    background-color: rgb(9, 9, 9);
+    border: solid 5px rgba(219, 171, 38, 0.96);
+    margin: auto;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1pt;
+    width: 615px;
+}
+.portada { 
+  
+   border: solid 1px red;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 15px;
+    width: 380px;
+}  
+
+/* Final Escape */
+#escape{
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(50, 252, 0, 0.816);
+    text-align: center; 
+    font-weight: 750;
+    letter-spacing: 1pt;
+    font-weight: bold;
+}
+.final img {
+    border: solid 2px rgba(211, 58, 58, 0.295);
+    width :700px;
+     height:400px;
+     display: flex;
+    margin: auto;
+}
+/* footers */
+.alienFooter{
+    margin-top: 100px
+}
+
+
+    
+
+
+
+    
+
+
