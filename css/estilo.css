@@ -98,7 +98,6 @@ ul li::marker{
 }
 #gridSys{
     display: grid;
-    
     grid-template-columns: 450px 500px;
     grid-template-rows: 70px 400px;
     justify-content: end;
