@@ -80,6 +80,8 @@ ul li::marker{
 }
 
 .portal{
+    display: flex;
+    justify-content: center;
     color: rgb(123, 245, 99);
     height: 400px;
      padding: 30px; 
@@ -87,7 +89,8 @@ ul li::marker{
    
 }
 .espacio { 
-    
+    display: flex;
+    justify-content: center;
     color: #FF9800;
     height: 400px;
     padding: 30px;
@@ -100,7 +103,6 @@ ul li::marker{
     display: grid;
     grid-template-columns: 450px 500px;
     grid-template-rows: 70px 400px;
-    justify-content: end;
     justify-items: center;
 }
 .portada { 
